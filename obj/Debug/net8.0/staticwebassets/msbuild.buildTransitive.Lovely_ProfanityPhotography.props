@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lovely_ProfanityPhotography.props" />
+</Project>

@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LPPhotography\\Lovely_ProfanityPhotography\\Lovely_ProfanityPhotography\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lovely_ProfanityPhotography.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lovely_ProfanityPhotography.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\LPPhotography\\Lovely_ProfanityPhotography\\Lovely_ProfanityPhotography\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\LPPhotography\\Lovely_ProfanityPhotography\\Lovely_ProfanityPhotography\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LPPhotography\\Lovely_ProfanityPhotography\\Lovely_ProfanityPhotography\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LPPhotography\\Lovely_ProfanityPhotography\\Lovely_ProfanityPhotography\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\LPPhotography\\Lovely_ProfanityPhotography\\Lovely_ProfanityPhotography\\wwwroot\\images\\Icons\\facebook.svg",
+      "PackagePath": "staticwebassets\\images\\Icons\\facebook.svg"
+    },
+    {
+      "Id": "D:\\LPPhotography\\Lovely_ProfanityPhotography\\Lovely_ProfanityPhotography\\wwwroot\\images\\headerTest.jpg",
+      "PackagePath": "staticwebassets\\images\\headerTest.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lovely_ProfanityPhotography.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lovely_ProfanityPhotography.props",
+      "PackagePath": "build\\Lovely_ProfanityPhotography.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lovely_ProfanityPhotography.props",
+      "PackagePath": "buildMultiTargeting\\Lovely_ProfanityPhotography.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lovely_ProfanityPhotography.props",
+      "PackagePath": "buildTransitive\\Lovely_ProfanityPhotography.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

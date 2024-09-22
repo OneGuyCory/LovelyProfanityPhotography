@@ -1,0 +1,35 @@
+.border-bottom[b-yx89dqpxxd] {
+    border-bottom: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #495057;
+}
+
+.d-flex[b-yx89dqpxxd] {
+    display: flex;
+}
+
+.flex-wrap[b-yx89dqpxxd] {
+    flex-wrap: wrap;
+}
+
+.align-items-center[b-yx89dqpxxd] {
+    align-items: center;
+}
+
+.justify-content-center[b-yx89dqpxxd] {
+    justify-content: center;
+}
+
+.justify-content-md-between[b-yx89dqpxxd] {
+    justify-content: space-between;
+}
+
+.py-3[b-yx89dqpxxd] {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.mb-4[b-yx89dqpxxd] {
+    margin-bottom: 1.5rem;
+}
